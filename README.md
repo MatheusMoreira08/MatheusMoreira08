@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi%2C+everyone!+I'm+Ana+Cristina.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
 
-<img src="[https://github.com/user-attachments/assets/3dd95ed7-9349-404f-8506-a3ad9a4cf5fb](https://media.tenor.com/X8854xxuQ_EAAAAM/destroy-code-mad.gif)" alt="Pixel Art" align="right" width="200">
+<img src="https://media.tenor.com/X8854xxuQ_EAAAAM/destroy-code-mad.gif" alt="Pixel Art" align="right" width="200">
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Cris-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
