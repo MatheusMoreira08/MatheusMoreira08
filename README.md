@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">Me chamo Matheus Moreira, sou estudante de programação e amante de tecnologia! Gosto muito da parte de "PO" e "PMO" e tenho um grande interesse na area.</h3>
+<p align="left">Me chamo Matheus Moreira, sou estudante de programação e amante de tecnologia! Gosto muito da parte de "PO" e "PMO" e tenho um grande interesse na area.</p>
 
 ###
 
@@ -60,7 +60,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusMoreira08/MatheusMoreira08/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusMoreira08/MatheusMoreira08/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MatheusMoreira08/MatheusMoreira08/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
