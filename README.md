@@ -2,22 +2,15 @@
   <img height="150" src="https://media.tenor.com/X8854xxuQ_EAAAAM/destroy-code-mad.gif"  />
 </div>
 
-###
+# 👨‍💻 Matheus Moreira
 
-<h1 align="center">Olá, 👋 Seja bem-vindo, prazer!!</h1>
+**`Desenvolvedor de Software`**
 
-###
+Me chamo Matheus Guilherme Moreira de Oliveira, tenho 18 anos e sou natural do Paraná. Atualmente, estou cursando Engenharia de Software na UNICV, presencialmente. Sou apaixonada por tecnologia, e um grande interesse em analise de requisitos, funções como "PO" e "PMO".
 
-<p align="left">Me chamo Matheus Moreira, sou estudante de programação e amante de tecnologia! Gosto muito da parte de "PO" e "PMO" e tenho um grande interesse na area.</p>
+---
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatheusMoreira08&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&order=1" height="155" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusMoreira08&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" height="155" alt="languages graph"  />
-</div>
-
-###
+### 🤖 Linguagens e Tecnologias
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
@@ -37,11 +30,7 @@
   <img src="https://cdn.simpleicons.org/trello/0052CC" height="40" alt="trello logo"  />
 </div>
 
-###
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MatheusMoreira08.MatheusMoreira08&right_color=aquamarine"  />
-
-###
+---
 
 <div align="left">
   <a href="https://www.linkedin.com/in/matheus-moreira-4b876a302" target="_blank">
@@ -55,11 +44,26 @@
   </a>
 </div>
 
-###
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusMoreira08/MatheusMoreira08/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusMoreira08/MatheusMoreira08/output/pacman-contribution-graph.svg">
-</picture>
+### 📊 Estatísticas
 
-###
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=MatheusMoreira08&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMoreira08&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
+
+
