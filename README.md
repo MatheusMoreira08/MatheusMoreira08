@@ -4,11 +4,41 @@
 
 # 👨‍💻 Matheus Moreira
 
+
 **`Desenvolvedor de Software`**
 
 Me chamo Matheus Guilherme Moreira de Oliveira, tenho 18 anos e sou natural do Paraná. Atualmente, estou cursando Engenharia de Software na UNICV, presencialmente. Sou apaixonada por tecnologia, e um grande interesse em analise de requisitos, funções como "PO" e "PMO".
 
----
+##
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="190" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=MatheusMoreira08&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="190" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMoreira08&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  /><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+##
+
+
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -30,42 +60,19 @@ Me chamo Matheus Guilherme Moreira de Oliveira, tenho 18 anos e sou natural do P
   <img src="https://cdn.simpleicons.org/trello/0052CC" height="40" alt="trello logo"  />
 </div>
 
----
+##
 
 ###  Redes Sociais 
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/matheus-moreira-4b876a302" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/invites/contact/?utm_source=ig_contact_invite&utm_medium=copy_link&utm_content=9aok25r" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
+<div> 
+  <a href="https://instagram.com/matheus_gui08" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:matheusgmoreira1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/n/matheus-moreira-4b876a302" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 </div>
 
----
 
-### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="190" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=MatheusMoreira08&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="190" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMoreira08&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
 
 
