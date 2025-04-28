@@ -72,6 +72,8 @@ Me chamo Matheus Guilherme Moreira de Oliveira, tenho 18 anos e sou natural do P
   
 </div>
 
+![snake gif](https://github.com/MatheusMoreira08/snake.yml/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
