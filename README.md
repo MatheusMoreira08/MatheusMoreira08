@@ -65,10 +65,11 @@ Me chamo Matheus Guilherme Moreira de Oliveira, tenho 18 anos e sou natural do P
 ###  Redes Sociais 
 
 <div> 
+  <a href="https://www.linkedin.com/in/matheus-moreira-4b876a302/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/matheus_gui08" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="mailto:matheusgmoreira1@gmail.com?subject=Contato%20via%20GitHub"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
- <a href="mailto:matheusgmoreira1@gmail.com?subject=Contato%20via%20GitHub">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+
 </a>
 
   
