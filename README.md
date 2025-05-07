@@ -7,7 +7,7 @@
 
 **`Desenvolvedor de Software`**
 
-Me chamo Matheus Guilherme Moreira de Oliveira, tenho 18 anos e sou natural do Paraná. Atualmente, estou cursando Engenharia de Software na UNICV, presencialmente. Sou apaixonada por tecnologia, e um grande interesse em analise de requisitos, funções como "PO" e "PMO".
+Me chamo Matheus Guilherme Moreira de Oliveira, tenho 18 anos e sou natural do Paraná. Atualmente, estou cursando Engenharia de Software na UNICV, presencialmente. Sou apaixonado por tecnologia, leve flerte em Java, e um interesse em analise de requisitos, funções como "PO" e "PMO".
 
 ##
 
