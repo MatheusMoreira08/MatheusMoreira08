@@ -7,7 +7,7 @@
 
 **`Desenvolvedor de Software`**
 
-Prazer, Matheus Guilherme Moreira de Oliveira, tenho 19 anos, sou natural do Paraná, Brasil. Atualmente, estou cursando Engenharia de Software presencialmente. Sou apaixonado por tecnologia, leve flerte em Java, e um interesse em analise de requisitos, funções como "PO" e "PMO".
+Prazer, Matheus Guilherme Moreira de Oliveira, tenho 19 anos, sou natural do Paraná, Brasil. Atualmente, estou cursando Engenharia de Software presencialmente. Sou apaixonado por tecnologia, leve flerte em Java e desenvolvimento back-end, mas claro, sem tirar a credibilitade da parte do front. Interesse em analise de requisitos, funções como "PO" e "PMO" também são do meu agrado.
 
 ##
 
