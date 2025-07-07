@@ -49,7 +49,7 @@ Me chamo Matheus Guilherme Moreira de Oliveira, tenho 18 anos e sou natural do P
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
+  <img src="https://img.icons8.com/color/20/000000/java-coffee-cup-logo.png"/> Java •  
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="12" />
@@ -58,6 +58,9 @@ Me chamo Matheus Guilherme Moreira de Oliveira, tenho 18 anos e sou natural do P
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/trello/0052CC" height="40" alt="trello logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/ios-filled/20/000000/spring-logo.png"/> Spring •  
+
 </div>
 
 ##
