@@ -12,31 +12,18 @@ Prazer, Matheus Guilherme Moreira de Oliveira, tenho 19 anos, sou natural do Par
 ##
 
 ### 📊 Estatísticas
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=MatheusMoreira08&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-    alt="Estatísticas do GitHub"
-    height="200"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMoreira08&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
-    alt="Linguagens mais usadas"
-    height="200"
-  />
-
+<br>
+<div align="center" style="display: flex; justify-content: center;">
+  <a href="https://github.com/anacristinaneves">
+    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=MatheusMoreira08&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
+    <img height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMoreira08&layout=compact&langs_count=7&theme=one_dark_pro"/>
+  </a>
 </div>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 ##
-
 
 
 ### 🤖 Linguagens e Tecnologias
