@@ -1,6 +1,9 @@
-<div align="center">
-  <img height="150" src="https://media.tenor.com/X8854xxuQ_EAAAAM/destroy-code-mad.gif"  />
-</div>
+<img 
+  src="https://media.tenor.com/X8854xxuQ_EAAAAM/destroy-code-mad.gif" 
+  align="right" 
+  height="150" 
+  alt="Destroy Code Mad GIF" 
+/>
 
 # 👨‍💻 Matheus Moreira
 
