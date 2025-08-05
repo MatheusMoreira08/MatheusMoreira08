@@ -95,7 +95,7 @@
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-050f2c?style=for-the-badge&logo=gmail&logoColor=fff)](https://mail.google.com/mail/u/0/#inbox?compose=new)
+  [![Gmail](https://img.shields.io/badge/Gmail-050f2c?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:matheusgmoreira1@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-050f2c?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/matheus_gui08)
   [![Discord](https://img.shields.io/badge/Discord-050f2c?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/PJj92aVz)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-050f2c?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/matheus-moreira-zs/)
