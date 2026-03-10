@@ -39,33 +39,33 @@
 
 <div align="center">
   <img
-    height=165
+    height="165"
     align="center"
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=MatheusMoreira08&show_icons=true&count_private=true&rank_icon=github&theme=algolia&font=Iosevka"
+    src="https://github-stats-extended.vercel.app/api?username=MatheusMoreira08&show_icons=true&rank_icon=github&theme=algolia&font=Iosevka"
   />
   <img
-    height=165
+    height="165"
     align="center"
     alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMoreira08&layout=compact&font=Iosevka&langs_count=16&theme=algolia"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=MatheusMoreira08&layout=compact&font=Iosevka&langs_count=16&theme=algolia"
   />
   <br>
   <br>
   <img
     align="center"
-    alt="Top Language"
+    alt="Profile Details"
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusMoreira08&theme=algolia"
   />
   <br>
   <br>
   <img
-    height=154
+    height="154"
     align="center"
-    alt="Top Language"
+    alt="GitHub Streak"
     src="https://github-readme-streak-stats.herokuapp.com?user=MatheusMoreira08&theme=algolia&card_width=885"
   />
-  </div>
+</div>
 
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
