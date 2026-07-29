@@ -1,13 +1,13 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=1E90FF"/>
 
-</div>
 <div align="center">
   <samp>
-      <br>
-      Hi there! I'm Matheus Moreira
-      <br>
-<br>
+    <br>
+    Hi there! I'm Matheus Moreira
+    <br>
+    <br>
   </samp>
+</div>
       
 <br>
 
@@ -30,75 +30,65 @@
 
 <details align="center">  
   <summary>
-      <samp>
-        <b>More Info</b>
-      </samp>
+    <samp>
+      <b>More Info</b>
+    </samp>
   </summary>
   
   <br>
 
-<div align="center">
-  <img
-    height="165"
-    align="center"
-    alt="GitHub Stats"
-    src="https://github-stats-extended.vercel.app/api?username=MatheusMoreira08&show_icons=true&rank_icon=github&theme=algolia&font=Iosevka"
-  />
-  <img
-    height="165"
-    align="center"
-    alt="Top Language"
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=MatheusMoreira08&layout=compact&font=Iosevka&langs_count=16&theme=algolia"
-  />
-  <br>
-  <br>
-  <img
-    align="center"
-    alt="Profile Details"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusMoreira08&theme=algolia"
-  />
-  <br>
-  <br>
-  <img
-    height="154"
-    align="center"
-    alt="GitHub Streak"
-    src="https://github-readme-streak-stats.herokuapp.com?user=MatheusMoreira08&theme=algolia&card_width=885"
-  />
-</div>
+  <div align="center">
+    <img
+      height="165"
+      align="center"
+      alt="GitHub Stats"
+      src="https://github-stats-extended.vercel.app/api?username=MatheusMoreira08&show_icons=true&rank_icon=github&theme=algolia&font=Iosevka"
+    />
+    <img
+      height="165"
+      align="center"
+      alt="Top Language"
+      src="https://github-stats-extended.vercel.app/api/top-langs?username=MatheusMoreira08&layout=compact&font=Iosevka&langs_count=16&theme=algolia"
+    />
+    <br>
+    <br>
+    <img
+      align="center"
+      alt="Profile Details"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusMoreira08&theme=algolia"
+    />
+    <br>
+    <br>
+    <img
+      height="154"
+      align="center"
+      alt="GitHub Streak"
+      src="https://streak-stats.demolab.com?user=MatheusMoreira08&theme=algolia&card_width=885"
+    />
+  </div>
 
-<div align="center" style="display: inline_block"><br>
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/C.svg" />
-  <img width="40" src="https://skillicons.dev/icons?i=java" />
-
-</div>
-
-<br>
-
-##
-
-<div align="center">
-  <samp>
-    <b>
-      Contact me:
-    </b>
-  </samp>
-  <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-050f2c?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:matheusgmoreira1@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-050f2c?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/matheus_gui08)
-  [![Discord](https://img.shields.io/badge/Discord-050f2c?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/PJj92aVz)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-050f2c?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/matheus-moreira-zs/)
-  
-</div>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,tailwind,postgres,c,java,git,docker,linux" />
+  </div>
 
-##
+  <br>
+
+  ##
+
+  <div align="center">
+    <samp><b>Contact me:</b></samp>
+    <br><br>
+
+<a href="mailto:matheusgmoreira1@gmail.com"><img src="https://img.shields.io/badge/Gmail-050f2c?style=for-the-badge&logo=gmail&logoColor=fff" /></a>
+<a href="https://www.instagram.com/matheus_gui08"><img src="https://img.shields.io/badge/Instagram-050f2c?style=for-the-badge&logo=instagram&logoColor=fff" /></a>
+<a href="https://discord.gg/PJj92aVz"><img src="https://img.shields.io/badge/Discord-050f2c?style=for-the-badge&logo=Discord&logoColor=fff" /></a>
+<a href="https://www.linkedin.com/in/matheus-moreira-zs/"><img src="https://img.shields.io/badge/LinkedIn-050f2c?style=for-the-badge&logo=linkedin&logoColor=fff" /></a>
+
+  </div>
+
+  ##
 
 </details>
 
